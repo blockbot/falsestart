@@ -1,0 +1,10 @@
+h1 {
+	background: url("../img/logo-big.png") no-repeat;
+	background-size: 100%;
+	margin: 300px auto 0;
+	width: 769px; min-height: 170px;
+}
+
+h1 span {
+	display: none;
+}
